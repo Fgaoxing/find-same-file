@@ -1,4 +1,5 @@
 # find-same-file
+[中文文档](https://www.yt-blog.top/58785)
 Python searches the same file based on md5
 ## Example
 Please note that you need to download [find_ same_ find.py](https://github.com/Fgaoxing/find-same-file/blob/main/find_same_find.py)
