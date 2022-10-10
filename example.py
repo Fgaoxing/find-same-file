@@ -1,2 +1,2 @@
-import find_same_find
-print(find_same_find.print_same('U:/'))# My U drive letter is U:, so the location is U:/
+import find_same_md5_file
+print(find_same_md5_file.print_same('U:/'))# My U drive letter is U:, so the location is U:/
