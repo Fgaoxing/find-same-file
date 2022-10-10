@@ -8,7 +8,7 @@ with open("README.md", "r",encoding='utf-8') as fh:
 
 setuptools.setup(
     name="find_same_md5_file",
-    version="0.0.2",
+    version="0.0.3",
     author="Fgaoxing",
     author_email="Fgaoxing0206@163.com",
     description="Python searches the same file based on md5",
